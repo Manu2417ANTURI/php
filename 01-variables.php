@@ -10,7 +10,7 @@ $fecha = date ('d/m/y');
     <title>Document</title>
 </head>
 <body>
-    <p><b>la fecha de hoy es <?php echo $fecha; ?></b></p>   
+    <p><b>La fecha de hoy es<?php echo $fecha; ?></b></p>   
 </body>
 </html>
 
